@@ -1,5 +1,6 @@
 # Assignments
-Assignments/in-class Kaggle competitions for the course Applied Machine Learning at NMBU.
+
+Assignements & in-class Kaggle competitions for the course Applied Machine Learning at NMBU.
 
 A description of the different files/projects:
 
